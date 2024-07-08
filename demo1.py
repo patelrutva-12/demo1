@@ -1,4 +1,3 @@
-a=5
+a=500
 b=1
-print(a)
 print(a+b)
